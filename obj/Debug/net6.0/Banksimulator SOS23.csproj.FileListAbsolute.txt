@@ -1,0 +1,15 @@
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\bin\Debug\net6.0\Banksimulator SOS23.exe
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\bin\Debug\net6.0\Banksimulator SOS23.deps.json
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\bin\Debug\net6.0\Banksimulator SOS23.runtimeconfig.json
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\bin\Debug\net6.0\Banksimulator SOS23.dll
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\bin\Debug\net6.0\Banksimulator SOS23.pdb
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\obj\Debug\net6.0\Banksimulator SOS23.csproj.AssemblyReference.cache
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\obj\Debug\net6.0\Banksimulator SOS23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\obj\Debug\net6.0\Banksimulator SOS23.AssemblyInfoInputs.cache
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\obj\Debug\net6.0\Banksimulator SOS23.AssemblyInfo.cs
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\obj\Debug\net6.0\Banksimulator SOS23.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\obj\Debug\net6.0\Banksimulator SOS23.dll
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\obj\Debug\net6.0\refint\Banksimulator SOS23.dll
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\obj\Debug\net6.0\Banksimulator SOS23.pdb
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\obj\Debug\net6.0\Banksimulator SOS23.genruntimeconfig.cache
+C:\Users\tobia\OneDrive - Handelsakademin\Dokument\prog intro\Banksimulator SOS23\obj\Debug\net6.0\ref\Banksimulator SOS23.dll

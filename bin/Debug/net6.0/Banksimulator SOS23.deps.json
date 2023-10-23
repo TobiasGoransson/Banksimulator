@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Banksimulator SOS23/1.0.0": {
+        "runtime": {
+          "Banksimulator SOS23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banksimulator SOS23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
